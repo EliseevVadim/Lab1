@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\задание 8\задание 8\bin\Debug\задание 8.exe.config
+c:\users\user\documents\visual studio 2015\Projects\задание 8\задание 8\bin\Debug\задание 8.exe
+c:\users\user\documents\visual studio 2015\Projects\задание 8\задание 8\bin\Debug\задание 8.pdb
+c:\users\user\documents\visual studio 2015\Projects\задание 8\задание 8\obj\Debug\задание 8.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\задание 8\задание 8\obj\Debug\задание 8.exe
+c:\users\user\documents\visual studio 2015\Projects\задание 8\задание 8\obj\Debug\задание 8.pdb
